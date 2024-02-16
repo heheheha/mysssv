@@ -1,46 +1,69 @@
-[CCTV-1|综合]
-源1=http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
-源2=http://223.110.243.138/PLTV/2510088/224/3221227177/1.m3u8
-
-[CCTV-2|财经]
-源1=http://223.110.243.136/PLTV/2510088/224/3221227199/1.m3u8
-
-[CCTV-3|综艺]
-源1=http://223.110.243.140/PLTV/2510088/224/3221227165/1.m3u8
-
-[CCTV-4|中文国际]
-源1=http://223.110.243.138/PLTV/2510088/224/3221227162/1.m3u8
-
-[CCTV-5|体育]
-源1=http://183.251.61.207/PLTV/88888888/224/3221225925/index.m3u8
-源2=http://223.110.243.140/PLTV/2510088/224/3221227202/1.m3u8
-
-[CCTV-6|电影]
-源1=http://223.110.243.140/PLTV/2510088/224/3221227145/1.m3u8
-
-[CCTV-7|军事农业]
-源1=http://223.110.243.136/PLTV/2510088/224/3221227142/1.m3u8
-
-[CCTV-8|电视剧]
-源1=http://223.110.243.140/PLTV/2510088/224/3221227193/1.m3u8
-
-[CCTV-9|纪录]
-源1=http://223.110.243.140/PLTV/2510088/224/3221227156/1.m3u8
-
-[CCTV-10|科教]
-源1=http://223.110.243.140/PLTV/2510088/224/3221227161/1.m3u8
-
-[CCTV-14|少儿]
-源1=http://223.110.243.140/PLTV/2510088/224/3221227247/1.m3u8
-
-[翡翠台]
-源1=http://acm.gg/jade.m3u8
-
-[NewTV|精品体育]
-源1=http://183.207.249.15/PLTV/3/224/3221225543/index.m3u8
-
-[NewTV|金牌综艺]
-源1=http://183.207.249.15/PLTV/3/224/3221225559/index.m3u8
-
-[NewTV|精品体育]
-源1=http://183.207.249.15/PLTV/3/224/3221225543/index.m3u8
+#EXTM3U
+#EXTINF:-1 ,CCTV1HD
+http://vss.cbnmtv.com/live/yt_cctv1_h_1.m3u8?channelid=yt_cctv1_h
+#EXTINF:-1 ,CCTV2HD
+http://vss.cbnmtv.com/live/yt_cctv2_h_1.m3u8?channelid=yt_cctv2_h
+#EXTINF:-1 ,CCTV3HD
+http://vss.cbnmtv.com/live/yt_cctv3_h_1.m3u8?channelid=yt_cctv3_h
+#EXTINF:-1 ,CCTV4HD
+http://vss.cbnmtv.com/live/yt_cctv4zhongwenguoji_h_1.m3u8?channelid=yt_cctv4zhongwenguoji_h
+#EXTINF:-1 ,CCTV5HD
+http://vss.cbnmtv.com/live/ty_cctv5_h_1.m3u8?channelid=ty_cctv5_h_1
+#EXTINF:-1 ,CCTV6HD
+http://vss.cbnmtv.com/live/yt_cctv6_h_1.m3u8?channelid=yt_cctv6_h
+#EXTINF:-1 ,CCTV7HD
+http://vss.cbnmtv.com/live/yt_cctv7_h_1.m3u8?channelid=yt_cctv7_h
+#EXTINF:-1 ,CCTV8HD
+http://vss.cbnmtv.com/live/ty_cctv8_h_1.m3u8?channelid=yt_cctv8_h
+#EXTINF:-1 ,CCTV9HD
+http://vss.cbnmtv.com/live/yt_cctv9_h_1.m3u8?channelid=yt_cctv9_h
+#EXTINF:-1 ,CCTV10HD
+http://vss.cbnmtv.com/live/yt_cctv10_h_1.m3u8?channelid=yt_cctv10_h
+#EXTINF:-1 ,CCTV12HD
+http://vss.cbnmtv.com/live/yt_cctv12_h_1.m3u8?channelid=yt_cctv12_h
+#EXTINF:-1 ,CCTV14HD
+http://vss.cbnmtv.com/live/yt_cctv14_h_1.m3u8?channelid=yt_cctv14_h
+#EXTINF:-1 ,北京卫视HD
+http://vss.cbnmtv.com/live/bjswsyth_1.m3u8?segmentserverid=bjswsyth_1&channelid=bjswsyth_1
+#EXTINF:-1 ,江苏卫视HD
+http://vss.cbnmtv.com/live/yt_jiangsuweishi_h_1.m3u8?segmentserverid=yt_jiangsuweishi_h_1&channelid=yt_jiangsuweishi_h_1
+#EXTINF:-1 ,浙江卫视HD
+http://vss.cbnmtv.com/live/yt_zhejiangweishi_h_1.m3u8?segmentserverid=yt_zhejiangweishi_l_1&channelid=yt_zhejiangweishi_h_1
+#EXTINF:-1 ,东方卫视HD
+http://vss.cbnmtv.com/live/yt_dongfangweishi_h_1.m3u8?channelid=yt_dongfangweishi_h
+#EXTINF:-1 ,东南卫视HD
+http://vss.cbnmtv.com/live/yt_dongnan_h_1.m3u8?segmentserverid=yt_dongnan_h_1&channelid=yt_dongnan_h_1
+#EXTINF:-1 ,黑龙江卫视HD
+http://vss.cbnmtv.com/live/yt_heilongjiangweishi_h_1.m3u8?segmentserverid=yt_heilongjiangweishi_h_1&channelid=yt_heilongjiangweishi_h_1
+#EXTINF:-1 ,安徽卫视HD
+http://vss.cbnmtv.com/live/yt_anhui_h_1.m3u8?segmentserverid=yt_anhui_h_1&channelid=yt_anhui_h_1
+#EXTINF:-1 ,广东卫视HD
+http://vss.cbnmtv.com/live/yt_guangdongweishi_h_1.m3u8?segmentserverid=yt_guangdongweishi_h_1&channelid=yt_guangdongweishi_h_1
+#EXTINF:-1 ,山东卫视HD
+http://vss.cbnmtv.com/live/yt_shandongweishi_h_1.m3u8?channelid=yt_shandongweishi_h
+#EXTINF:-1 ,湖北卫视HD
+http://vss.cbnmtv.com/live/yt_hubei_h_1.m3u8?segmentserverid=yt_hubei_h_1&channelid=yt_hubei_h_1
+#EXTINF:-1 ,四川卫视HD
+http://vss.cbnmtv.com/live/yt_sichuan_h_1.m3u8?segmentserverid=yt_sihuan_h_1&channelid=yt_sichuan_h_1
+#EXTINF:-1 ,天津卫视HD
+http://vss.cbnmtv.com/live/yt_tianjinweishi_h_1.m3u8?segmentserverid=yt_tianjinweishi_h_1&channelid=yt_tianjinweishi_h_1
+#EXTINF:-1 ,河北卫视HD
+http://vss.cbnmtv.com/live/yt_henanweishi_h_1.m3u8?segmentserverid=yt_henanweishi_h_1&channelid=yt_henanweishi_h_1
+#EXTINF:-1 ,深圳卫视HD
+http://vss.cbnmtv.com/live/yt_shenzhenweishi_h_1.m3u8?segmentserverid=yt_shenzhenweishi_h_1&channelid=yt_shenzhenweishi_h_1
+#EXTINF:-1 ,金鹰纪实HD
+http://vss.cbnmtv.com/live/yt_jinying_h_1.m3u8?segmentserverid=yt_jinying_h_1&channelid=yt_jinying_h_1
+#EXTINF:-1 ,北京新闻HD
+http://vss.cbnmtv.com/live/bjxwyth_1.m3u8?segmentserverid=bjxwyth_1&channelid=bjxwyth_1
+#EXTINF:-1 ,北京影视HD
+http://vss.cbnmtv.com/live/bjysyth_1.m3u8?segmentserverid=bjysyth_1&channelid=bjysyth_1
+#EXTINF:-1 ,重庆新闻HD
+http://vss.cbnmtv.com/live/CQTV_xw_hd_1.m3u8?segmentserverid=CQTV_xw_hd_1&channelid=CQTV_xw_hd_1
+#EXTINF:-1 ,重庆都市HD
+http://vss.cbnmtv.com/live/CQTV_dushi_hd_1.m3u8?segmentserverid=CQTV_dushi_ld_1&channelid=CQTV_dushi_hd_1
+#EXTINF:-1 ,重庆少儿HD
+http://vss.cbnmtv.com/live/CQTV_shaoer_hd_1.m3u8?segmentserverid=CQTV_shaoer_hd_1&channelid=CQTV_shaoer_hd_1
+#EXTINF:-1 ,重庆时尚HD
+http://vss.cbnmtv.com/live/CQTV_shishang_hd_1.m3u8?segmentserverid=CQTV_shishang_hd_1&channelid=CQTV_shishang_hd_1
+#EXTINF:-1 ,重庆影视HD
+http://vss.cbnmtv.com/live/CQTV_yingshi_hd_1.m3u8?segmentserverid=CQTV_yingshi_hd_1&channelid=CQTV_yingshi_hd_1
